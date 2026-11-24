@@ -1,0 +1,1 @@
+Our results indicate that the new catalyst achieves high activity and markedly improved stability. The catalyst shows an activity of 12.5 mA/cm2 at 1.8 V, exceeding that of previously reported works [3, 7]. As shown in Figure 2, the material remains stable for 100 h. These findings suggest that deep learning models may accelerate catalyst discovery.
